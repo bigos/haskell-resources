@@ -5,8 +5,7 @@ It was inspired by [[https://github.com/michaeljones/elm-manchester-resources][E
 
 ** Newsletters
 
-[[https://haskellweekly.news/][Haskell Weekly News/]]
-
+[[https://haskellweekly.news/][Haskell Weekly News]]
 
 ** Installing Haskell
 
